@@ -133,7 +133,9 @@ I enjoy solving complex backend problems, designing scalable systems, and contin
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bibhu004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bibhup.co.in/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibhu04/)
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@bibhu04)
 
